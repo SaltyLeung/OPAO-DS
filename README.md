@@ -3,7 +3,7 @@
 2025 GGJ——广州攻壳站。游戏页面：https://gmhub.com/game/6971
 
 
-一款平平无奇的nds游戏。背景音乐基于O泡广告prompt AI生成。
+一款平平无奇的nds游戏。背景音乐基于O泡广告prompt AI生成。感谢队友@jhwisp 线上音乐美术支持！～
 
 NO$GBA（Windows）、MelonOS（MacOS）最新版nds模拟器可游玩。
 
